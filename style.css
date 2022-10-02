@@ -75,3 +75,20 @@
     color: navy;
     transition: 0.5s;
 }
+.container-three{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.container-three h1{
+    font-size: 35px;
+    color: navy;
+    font-weight: 500;
+
+}
+.container-three p{
+    font-size: 18px;
+    color: rgb(83, 83, 83);
+    margin-top: 30px;
+}
