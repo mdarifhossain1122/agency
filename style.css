@@ -1,0 +1,46 @@
+*{
+    margin: auto;
+    padding: 0;
+    font-family: 'Exo 2', sans-serif;
+}
+.container-one{
+    background-image: url(https://thumbs.dreamstime.com/b/real-estate-agent-demonstrating-house-illustration-dark-background-closeup-space-text-banner-design-real-estate-agent-195490723.jpg);
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box-one{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+.home nav a{
+    font-size: 20px;
+    color: white;
+    margin: 25px;
+    text-decoration: none;
+    color: tomato;
+    
+}
+.btn-one button{
+    padding: 15px 35px;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color: tomato;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+}
+.btn-one button:hover{
+    background-color: white;
+    color: navy;
+    transition: 0.5s;
+    
+}
+.home nav a:hover{
+    color: white;
+    transition: 0.3s;
+}
