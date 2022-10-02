@@ -104,7 +104,7 @@
     display: flex;
     padding-left: 60px;
     padding-right: 60px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 
 }
 .container-six{
@@ -112,11 +112,13 @@
 }
 .container-six h1{
     font-size: 60px;
+    color: navy;
 }
 .container-six p{
     font-size: 20px;
     margin-top: 47px;
     text-align: justify;
+    color: rgb(83, 83, 83);
 }
 .container-six button{
     padding: 15px 30px;
@@ -127,4 +129,20 @@
     background-color: tomato;
     color: white;
     margin-top: 47px;
+}
+.container-seven{
+    text-align: center;
+}
+.container-seven h1{
+    font-size: 50px;
+    color: navy;
+}
+.container-seven p{
+    font-size: 18px;
+    color: rgb(83, 83, 83);
+    margin-top: 30px;
+}
+.container-seven{
+    background-color: rgb(255, 246, 248);
+    padding-top: 50px;
 }
