@@ -92,3 +92,39 @@
     color: rgb(83, 83, 83);
     margin-top: 30px;
 }
+
+
+.container-four{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.container-five{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 100px;
+
+}
+.container-six{
+    width: 650px;
+}
+.container-six h1{
+    font-size: 60px;
+}
+.container-six p{
+    font-size: 20px;
+    margin-top: 47px;
+    text-align: justify;
+}
+.container-six button{
+    padding: 15px 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+    background-color: tomato;
+    color: white;
+    margin-top: 47px;
+}
