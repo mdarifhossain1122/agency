@@ -301,3 +301,37 @@
     color: tomato;
     transition: 0.5s;
 }
+
+.container-forty{
+    display: flex;
+    align-items: center;
+    background-color: rgb(80, 80, 155);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.container-forty h1{
+    font-size: 40px;
+    color: white;
+
+}
+.container-forty p{
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.container-forty button{
+    padding: 15px 35px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: rgb(80, 80, 155);
+    border-color: white;
+    color: white;
+}
+.container-forty button:hover{
+    background-color: tomato;
+    border-color: tomato;
+    transition: 0.4s;
+}   
